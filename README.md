@@ -9,7 +9,7 @@
 
 我们的使命  
 Our mission  
-&emsp;&emsp;“makeflyeasy ”秉持“让飞行更简单”的信仰，专注于“小面积航测”，不断追求技术创新，做出简单、美丽、普世的产品，不断探索商业模式，缩短产品与用户的距离。
+&emsp;&emsp;“makeflyeasy ”秉持“让飞行更简单”的信仰，专注于“小面积航测”，不断追求技术创新，做出简单、美丽、普世的产品，不断探索商业模式，缩短产品与用户的距离。  
 &emsp;&emsp;"Makeflyeasy" adheres to the belief of "make flying easier", focuses on "small area aerial survey", constantly pursues technological innovation, makes simple, beautiful and universal products, and constantly explores business models to shorten the distance between products and users.  
 
 联系我们  
