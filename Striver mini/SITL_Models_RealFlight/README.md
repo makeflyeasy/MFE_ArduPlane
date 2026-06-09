@@ -10,8 +10,8 @@
 * Length: ............. 1.20 m
 * Weight: ............. 7.50 kg
 * Battery: ............ 6SLiPo - 22000 mAh
-* Cruise Power: ....  MFE 4120 kv430KV ESC6100 APC1612
-* Rotor Power: .......MFE 4112 kv460KV ESC650  MFE1550 
+* Cruise Power: ....  MFE 4120 kv430 ESC6100 APC1612
+* Rotor Power: .......MFE 4112 kv460 ESC650  MFE1550 
 
 
 ## Ardupilot servo functions
