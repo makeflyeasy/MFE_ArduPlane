@@ -40,7 +40,7 @@
 * FLTMODE6,5
 
 
-##RC Output Channel Configuration
+## RC Output Channel Configuration
 * Aileron   Ch1
 * Elevator  Ch2
 * Throttle  Ch3
