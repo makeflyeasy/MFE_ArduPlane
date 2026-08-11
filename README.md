@@ -4,8 +4,6 @@
 &emsp;&emsp;我们共享了一些(不涉及商业因数)的信仰者、自由者、奋斗者、奋斗者mini、逆行者、开拓者载机的3D文件、2D图纸等信息。  
 &emsp;&emsp;We shared some (not involving commercial factors) 3D files, 2D drawings and other information of Believer, Freeman, Fighter，Striver mini，and Hero.  
 
-&emsp;&emsp;如果没找到你需要的文件，请邮件联系我们，我们会及时更新。  
-&emsp;&emsp;If you can’t find the file you need, please email us and we will update it in time.  
 
 我们的使命  
 Our mission  
