@@ -1,4 +1,4 @@
-## Fighter相关资料：
+## 相关资料：
 
 #### 用户手册：
 http://fw.makeflyeasy.com/Fighter/
@@ -9,7 +9,7 @@ http://fw.makeflyeasy.com/Frame_params/
 #### 技术支持：
 http://doc.makeflyeasy.com
 
-## Fighter related information:
+## related information:
 
 #### User Manual:
 http://fw.makeflyeasy.com/Fighter/
