@@ -1,7 +1,7 @@
-## Striver mini相关资料：
+## Striver2100相关资料：
 
 #### 用户手册：
-http://fw.makeflyeasy.com/Striver_mini/
+http://fw.makeflyeasy.com/Striver2100/
 
 #### Pixhawk飞控参数：
 http://fw.makeflyeasy.com/Frame_params/
@@ -12,7 +12,7 @@ http://doc.makeflyeasy.com
 ## Striver mini related information:
 
 #### User Manual:
-http://fw.makeflyeasy.com/Striver_mini/
+http://fw.makeflyeasy.com/Striver2100/
 
 #### Pixhawk flight control parameters:
 http://fw.makeflyeasy.com/Frame_params/
